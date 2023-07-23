@@ -1,4 +1,4 @@
-## Hi, I'm [Md. Sohel Rana](https://www.stopstalk.com/user/profile/Taalpatar_Shepai) 👋
+## Hi, I'm [Tasneem Rahman] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
 <a href="https://twitter.com/mrsohelcse">
@@ -25,9 +25,6 @@
 - ⚡ Fun fact: I often play video games.
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&hide=contribs,prs&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**
 
