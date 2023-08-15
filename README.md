@@ -1,16 +1,16 @@
 ## Hi, I'm Tasneem Rahman 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="mr-sohel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-sohel&label=Views&color=blue&style=plastic" alt="aurora" /> </p>
 <a href="https://twitter.com/aurorabtw_">
   <img align="left" alt="Aurora's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
 <a href="https://www.linkedin.com/in/aurora-btw-3763a7288/">
-  <img align="left" alt="Aurora's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+  <img align="left" alt="Aurora's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/Aurorabtw">
   <img align="left" alt="Aurora's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
-<a href="https://instagram.com/ig_aurorabtw/">
+<a href="https://www.instagram.com/aurorabtw_/">
   <img align="left" alt="Aurora's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://www.facebook.com/tasneem.aurora/">
@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.instagram.com/ig_aurorabtw)
+- 💬 Ask me about anything [here](https://www.instagram.com/aurorabtw_/)
 - ⚡ Fun fact: I like playing retro/arcade-ish games, plus I enjoy cat memes 
 
 
