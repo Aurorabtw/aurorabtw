@@ -4,7 +4,7 @@
 <a href="https://twitter.com/aurorabtw_">
   <img align="left" alt="Aurora's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
-<a href="https://www.linkedin.com/in/aurora-btw-3763a7288/">
+<a href="https://www.linkedin.com/in/tasneem-rahman-3763a7288/">
   <img align="left" alt="Aurora's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/Aurorabtw">
