@@ -1,4 +1,4 @@
-<h4 align="left">🌱 I’m currently learning Data Structures and Algorithms.<br>🤔 I’m interested in Competitive Programming.<br>💬 Ask me about anything here<br>⚡ Fun fact: I like playing retro/arcade-ish games, plus I enjoy cat memes</h4>
+<h6 align="left">🌱 Currently learning Data Structures and Algorithms.<br>🤔 I’m interested in Competitive Programming.<br>⚡ Fun fact: I like playing retro/arcade-ish games, plus I enjoy cat memes</h6>
 
 ###
 
@@ -42,11 +42,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aurorabtw/Aurorabtw/output/snake.svg" alt="Snake animation" />
-
-###
