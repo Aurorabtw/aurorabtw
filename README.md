@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="<iframe src="https://gifer.com/embed/Llmh" width=480 height=273.600 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>"  />
 
 ###
 
