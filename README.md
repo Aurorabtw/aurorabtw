@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media.giphy.com/media/K4rDu65eHSsNO/giphy.gif](https://www.codedex.io/api/petStatus?user=Aurorabtw)"  />
+<img align="right" height="150" src="[https://media.giphy.com/media/K4rDu65eHSsNO/giphy.gif]"  />
 
 ###
 
