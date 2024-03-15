@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/K4rDu65eHSsNO/giphy.gif"  />
+<img align="right" height="150" src="[https://media.giphy.com/media/K4rDu65eHSsNO/giphy.gif](https://www.codedex.io/api/petStatus?user=Aurorabtw)"  />
 
 ###
 
@@ -28,10 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Aurorabtw/30-nites-of-code)  
-  ![@Aurorabtw #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Aurorabtw)
-###
+
 
 <div align="left">
   <a href="https://youtube.com/@aurorabtw5578?si=wVlLu80oU83Nzm-p" target="_blank">
