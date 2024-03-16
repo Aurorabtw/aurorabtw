@@ -41,5 +41,5 @@
 </div>
 
 ## #30NitesOfCode:
-[Check out my progress!](https://www.codedex.io/@Aurorabtw/30-nites-of-code)  
-![@Aurorabtw #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Aurorabtw)
+  [Check out my progress!](https://www.codedex.io/@Aurorabtw/30-nites-of-code)  
+  ![@Aurorabtw #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Aurorabtw)
