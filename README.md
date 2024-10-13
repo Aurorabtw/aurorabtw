@@ -3,11 +3,13 @@
 ## About Me 🌌
 Hey there! I'm Tasneem, but you might know me as Aurorabtw. I'm a quiet, upbeat coder with a passion for C++ and Python. I often find myself in a cycle of starting projects, putting in the work, and... well, sometimes they end up in a cozy forgotten corner! This repository is my personal space to revisit and share those projects with you.
 
-![aurorabtw's Stats](https://github-readme-stats.vercel.app/api?username=aurorabtw&theme=vue&show_icons=true&hide_border=true&count_private=false)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aurorabtw&theme=vue&show_icons=true&hide_border=true&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorabtw&theme=vue&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
 ![aurorabtw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurorabtw&theme=vue&hide_border=true)
 
-![aurorabtw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurorabtw&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 ## Connect with Me 🌌
 If you like what you see or have any thoughts, you can find me here!
