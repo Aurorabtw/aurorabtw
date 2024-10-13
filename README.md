@@ -4,9 +4,13 @@
 Hey there! I'm Tasneem, but you might know me as Aurorabtw. I'm a quiet, upbeat coder with a passion for C++ and Python. I often find myself in a cycle of starting projects, putting in the work, and... well, sometimes they end up in a cozy forgotten corner! This repository is my personal space to revisit and share those projects with you.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aurorabtw&theme=vue&show_icons=true&hide_border=true&count_private=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorabtw&theme=vue&show_icons=true&hide_border=true&layout=compact" />
+    <div style="display: flex; justify-content: center; gap: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=aurorabtw&theme=vue&show_icons=true&hide_border=true&count_private=false" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorabtw&theme=vue&show_icons=true&hide_border=true&layout=compact" />
+    </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurorabtw&theme=vue&hide_border=true" />
 </div>
+
 
 ![aurorabtw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurorabtw&theme=vue&hide_border=true)
 
