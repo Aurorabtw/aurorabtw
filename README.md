@@ -1,4 +1,4 @@
-# Welcome to **Aurorabtw's Time Capsule**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Afacad+Flux&pause=1000&color=F78F00&center=true&width=435&lines=Welcome+to+Aurorabtw's+Time+Capsule)](https://git.io/typing-svg)
 
 ## About Me 🌌
 Hey there! I'm Tasneem, but you might know me as Aurorabtw. I'm a quiet, upbeat coder with a passion for C++ and Python. I often find myself in a cycle of starting projects, putting in the work, and... well, sometimes they end up in a cozy forgotten corner! This repository is my personal space to revisit and share those projects with you.
