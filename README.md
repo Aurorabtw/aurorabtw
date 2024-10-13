@@ -11,10 +11,6 @@ Hey there! I'm Tasneem, but you might know me as Aurorabtw. I'm a quiet, upbeat 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aurorabtw&theme=vue&hide_border=true" />
 </div>
 
-
-![aurorabtw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurorabtw&theme=vue&hide_border=true)
-
-
 ## Connect with Me 🌌
 If you like what you see or have any thoughts, you can find me here!
 - GitHub: [Aurorabtw](https://github.com/Aurorabtw)
