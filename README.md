@@ -20,3 +20,4 @@ https://colab.research.google.com/drive/1V6TvmPjcrhZ22Jam-3DBQK49UuC3cJmj?usp=sh
 ---
 
 https://www.canva.com/design/DAG5MYpf_8A/nTdOsmBRYiR1Dx_3p_6VGw/edit?utm_content=DAG5MYpf_8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAG1Cs3s34U/mFJNH3-7U38q--yiFTD7iA/edit?utm_content=DAG1Cs3s34U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
