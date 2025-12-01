@@ -14,7 +14,7 @@ Hey there! I'm Tasneem, but you might know me as Aurorabtw. I'm a quiet, upbeat 
 ## Connect with Me 🌌
 If you like what you see or have any thoughts, you can find me here!
 - GitHub: [Aurorabtw](https://github.com/Aurorabtw)
-https://colab.research.google.com/drive/1V6TvmPjcrhZ22Jam-3DBQK49UuC3cJmj?usp=sharing
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=F78F00&width=435&lines=See+you+at+the+funny+papers!)](https://git.io/typing-svg)
 ---https://www.canva.com/design/DAG1Cs3s34U/mFJNH3-7U38q--yiFTD7iA/edit?utm_content=DAG1Cs3s34U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
